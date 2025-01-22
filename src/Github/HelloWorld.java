@@ -6,6 +6,6 @@ public class HelloWorld {
         System.out.println("Hello, Cats!");
         System.out.println("Hello, Dogs!");
 
-        System.out.println("Hello, World!!");
+        System.out.println("Hello, World! What's up!");
     }
 }
